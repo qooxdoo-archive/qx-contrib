@@ -9533,7 +9533,7 @@
         }
       },
       "qooxdoo-archive/qxl.testrunner": {
-        "description": "A modular test runner application for qooxdoo to run JSUnit-like unit tests",
+        "description": "(deprecated) A modular test runner application for qooxdoo to run JSUnit-like unit tests",
         "url": "https://api.github.com/repos/qooxdoo-archive/qxl.testrunner",
         "releases": {
           "list": [
